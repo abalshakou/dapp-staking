@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dapp-staking/static/css/main.9e26f99c.css",
+    "main.js": "/dapp-staking/static/js/main.2813299e.js",
+    "index.html": "/dapp-staking/index.html",
+    "main.9e26f99c.css.map": "/dapp-staking/static/css/main.9e26f99c.css.map",
+    "main.2813299e.js.map": "/dapp-staking/static/js/main.2813299e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e26f99c.css",
+    "static/js/main.2813299e.js"
+  ]
+}
