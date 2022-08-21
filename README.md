@@ -1,7 +1,7 @@
 # staking DAPP and smartcontract  
  
 
-This project demonstrates UI used React and ethers.js works with staking smartcontract. This Dapp working in rinkeby test network https://skiv1986.github.io/dapp-staking/
+This project demonstrates UI used React and ethers.js works with staking smartcontract. This Dapp working in rinkeby test network https://abalshakou.github.io/dapp-staking/
 
 ![2022-07-13_18-07](https://i.imgur.com/3lxbQUt.png)
 
