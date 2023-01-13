@@ -20,13 +20,13 @@
   display: inline-block;
   margin-left: 24px;
   padding: 5px;
-  color: #1168f1;
+  color: #051630;
   font-size: 24px;
 }
 .connectButton {
   float: right;
   margin-right: 24px;
-  background-color: #1168f1;
+  background-color: #051630;
   border-radius: 4px;
   padding: 5px 15px;
   color: #f1f1f3;
@@ -46,7 +46,7 @@
 /*////////////////////////////////////////////////////////////////////////////*/
 /* Market */
 .marketContainer {
-  background-color: #1168f1;
+  background-color: #051630;
   width: 620px;
   height: 170px;
   margin: 0 auto;
@@ -106,7 +106,7 @@
 /*////////////////////////////////////////////////////////////////////////////*/
 /* Assets */
 .assetContainer {
-  background-color: #1168f1;
+  background-color: #051630;
   width: 620px;
   min-height: 225px;
   margin: 0 auto;

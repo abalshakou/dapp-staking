@@ -8,7 +8,7 @@ import Logo from './Logo';
 import NavBar from "./components/NavBar";
 import StakeModal from "./components/StakeModal";
 
-const CONTRACT_ADDRESS = "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+const CONTRACT_ADDRESS = "0x49dB88F9DFBa3F95c16348849Df682147Ba6D440"
 
 function App() {
 

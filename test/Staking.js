@@ -251,7 +251,7 @@ describe("Staking", function () {
         });
 
         describe("not owner", function () {
-            it('reverts', async function () {
+            it('Only owner may modify staking periods', async function () {
                 const data = { value: ethers.utils.parseEther('8') }
                 const transaction = await staking.connect(addr1).stakeEther(90, data)
                 const positionOld = await staking.getPositionById(0)
