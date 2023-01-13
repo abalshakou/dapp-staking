@@ -10,7 +10,7 @@ async function main() {
 
     const Staking = await hre.ethers.getContractFactory("Staking", signer1);
     const staking = await Staking.deploy({
-        value: ethers.utils.parseEther('10')
+        value: ethers.utils.parseEther('0.05')
     });
 
     await staking.deployed();
